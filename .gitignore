@@ -1,0 +1,10 @@
+.idea
+cmake-build-debug
+build
+models
+*.o
+*.so
+install
+ttrek-lock.json
+ttrek-venv
+
